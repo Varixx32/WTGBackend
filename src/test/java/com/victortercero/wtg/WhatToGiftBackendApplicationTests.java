@@ -1,10 +1,10 @@
-package com.victortercero.whattogift;
+package com.victortercero.wtg;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class WhatToGiftApiApplicationTests {
+class WhatToGiftBackendApplicationTests {
 
 	@Test
 	void contextLoads() {
